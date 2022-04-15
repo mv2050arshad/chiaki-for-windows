@@ -1,7 +1,7 @@
 
 ![Chiaki Logo](assets/chiaki_wide.png)
 
-# Chiaki for Windows platform 
+# Chiaki(PS4 Remote Play) for Windows platform 
 
 # If you need to build Chiaki for windows platform and you need to customization the software, please dont hesitate to contact me in my website
 http://machinevision2050.ir/
